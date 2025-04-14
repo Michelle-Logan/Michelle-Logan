@@ -22,7 +22,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 
 [instagram]: https://www.instagram.com/mtelt55/___________
-[linkedin]: https://linkedin.com/in/michellelogan2/___________
+[linkedin]: https://www.linkedin.com/in/michellelogan2/___________
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
