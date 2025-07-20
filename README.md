@@ -11,6 +11,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Michelle-Logan/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Malicious Office Macro)](https://github.com/Michelle-Logan/CyberRange/blob/main/Threat_Hunt/Malicious_Macro)**
 
 <hr/>
 
