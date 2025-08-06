@@ -16,7 +16,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 These scripts demonstrate my ability to identify and remediate system vulnerabilities based on DISA Security Technical Implementation Guides (STIGs). Each script includes PowerShell-based remediation aligned with Windows 10 compliance requirements.
 
-- **[WN10-AC-000005: Account Lockout Duration](STIGS/WN10-AC-000005.ps1)**
+- **[WN10-AC-000005: Account Lockout Duration](https://github.com/Michelle-Logan/CyberRange/tree/main/STIGS/WN10-AC-000005.ps1)**
 - **[WN10-AC-000020: Password on Resume (Battery)](STIGS/WN10-AC-000020.ps1)**
 - **[WN10-AU-000082: Audit Policy - Logon/Logoff Events](STIGS/WN10-AU-000082.ps1)**
 - **[WN10-AU-000500: Windows Event Retention Configuration](STIGS/WN10-AU-000500.ps1)**
