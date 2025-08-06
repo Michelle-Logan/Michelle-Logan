@@ -12,6 +12,31 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Michelle-Logan/threat-hunting-scenario-tor)**
 
+## 🛡️ STIG Remediation Projects
+
+These scripts demonstrate my ability to identify and remediate system vulnerabilities based on DISA Security Technical Implementation Guides (STIGs). Each script includes PowerShell-based remediation aligned with Windows 10 compliance requirements.
+
+- **[WN10-AC-000005: Account Lockout Duration](STIGS/WN10-AC-000005.ps1)**
+- **[WN10-AC-000020: Password on Resume (Battery)](STIGS/WN10-AC-000020.ps1)**
+- **[WN10-AU-000082: Audit Policy - Logon/Logoff Events](STIGS/WN10-AU-000082.ps1)**
+- **[WN10-AU-000500: Windows Event Retention Configuration](STIGS/WN10-AU-000500.ps1)**
+- **[WN10-AU-000565: Audit Policy Subcategory Override](STIGS/WN10-AU-000565.ps1)**
+- **[WN10-AU-000580: Audit: Security Options](STIGS/WN10-AU-000580.ps1)**
+- **[WN10-CC-000090: Disable Windows Consumer Features](STIGS/WN10-CC-000090.ps1)**
+- **[WN10-CC-000185: Disable Microsoft Account Sign-in](STIGS/WN10-CC-000185.ps1)**
+- **[WN10-CC-000220: Configure ECC Curve Order](STIGS/WN10-CC-000220.ps1)**
+- **[WN10-CC-000275: Hardened UNC Paths](STIGS/WN10-CC-000275.ps1)**
+- **[WN10-CC-000300: Restrict NetBIOS Name Resolution](STIGS/WN10-CC-000300.ps1)**
+- **[WN10-CC-000310: Disable SMBv1](STIGS/WN10-CC-000310.ps1)**
+- **[WN10-CC-000320: Prevent WinRM Use of Digest Authentication](STIGS/WN10-CC-000320.ps1)**
+- **[WN10-CC-000335: Disable Microsoft SmartScreen for URLs](STIGS/WN10-CC-000335.ps1)**
+- **[WN10-CC-000355: Disable RunAs Credential Storage (WinRM)](STIGS/WN10-CC-000355.ps1)**
+- **[WN10-SO-000080: UAC: Secure Desktop for Admin Prompts](STIGS/WN10-SO-000080.ps1)**
+- **[WN10-SO-000185: Built-in Admin Account Must Be Disabled](STIGS/WN10-SO-000185.ps1)**
+- **[WN10-SO-000205: UAC: Admin Approval Mode](STIGS/WN10-SO-000205.ps1)**
+- **[WN10-UR-000070: Configure System Restore Point Behavior](STIGS/WN10-UR-000070.ps1)**
+
+
 <hr/>
 
 ## 🤳 Connect With Me
