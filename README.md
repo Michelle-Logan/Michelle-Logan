@@ -37,6 +37,7 @@ These scripts demonstrate my ability to identify and remediate system vulnerabil
 - **[WN10-UR-000070: Configure System Restore Point Behavior](https://github.com/Michelle-Logan/CyberRange/tree/main/STIGS/WN10-UR-000070.ps1)**
 - **[WN10-CC-000195: Enhanced Anti-Spoofing for Facial Recognition Must Be Enabled on Windows 10](https://github.com/Michelle-Logan/CyberRange/blob/main/STIGS/WN10-CC-000195.ps1)**
 - **[WN10-CC-000325: Automatically Signing in the Last Interactive User After a System-Initiated Restart Must be Disabled](https://github.com/Michelle-Logan/CyberRange/blob/main/STIGS/WN10-CC-000325.ps1)**
+- **[WN10-CC-000005: Camera Access From the Lock Screen Must be Disabled](https://github.com/Michelle-Logan/CyberRange/blob/main/STIGS/WN10-CC-000005.ps1)**
 
 
 <hr/>
