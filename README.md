@@ -36,6 +36,7 @@ These scripts demonstrate my ability to identify and remediate system vulnerabil
 - **[WN10-SO-000205: UAC: Admin Approval Mode](https://github.com/Michelle-Logan/CyberRange/tree/main/STIGS/WN10-SO-000205.ps1)**
 - **[WN10-UR-000070: Configure System Restore Point Behavior](https://github.com/Michelle-Logan/CyberRange/tree/main/STIGS/WN10-UR-000070.ps1)**
 - **[WN10-CC-000195: Enhanced Anti-Spoofing for Facial Recognition Must Be Enabled on Windows 10](https://github.com/Michelle-Logan/CyberRange/blob/main/STIGS/WN10-CC-000195.ps1)**
+- **[WN10-CC-000325: Automatically signing in the last interactive user after a system-initiated restart must be disabled](https://github.com/Michelle-Logan/CyberRange/blob/main/STIGS/WN10-CC-000325.ps1)**
 
 
 <hr/>
