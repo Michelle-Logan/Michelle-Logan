@@ -42,7 +42,8 @@ These scripts demonstrate my ability to identify and remediate system vulnerabil
 - **[WN10-CC-000252: Windows 10 Must be Configured to Disable Windows Game Recording and Broadcasting](https://github.com/Michelle-Logan/CyberRange/blob/main/STIGS/WN10-CC-000252.ps1)**
 - **[WN10-CC-000365: Windows 10 must be Configured to Prevent Windows Apps From Being Activated by Voice While the System is Locked](https://github.com/Michelle-Logan/CyberRange/blob/main/STIGS/WN10-CC-000365.ps1)**
 - **[WN10-CC-000038: WDigest Authentication Must be Disabled](https://github.com/Michelle-Logan/CyberRange/blob/main/STIGS/WN10-CC-000038.ps1)**
-- **[WN10-CC-000120: The network selection user interface (UI) must not be displayed on the logon screen.](https://github.com/Michelle-Logan/CyberRange/blob/main/STIGS/WN10-CC-000120.ps1)**
+- **[WN10-CC-000120: The network selection user interface (UI) must not be displayed on the logon screen](https://github.com/Michelle-Logan/CyberRange/blob/main/STIGS/WN10-CC-000120.ps1)**
+- **[WN10-CC-000110: Printing over HTTP Must be Prevented](https://github.com/Michelle-Logan/CyberRange/blob/main/STIGS/WN10-CC-000110.ps1)**
 
 
 <hr/>
