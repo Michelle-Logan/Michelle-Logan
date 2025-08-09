@@ -39,8 +39,9 @@ These scripts demonstrate my ability to identify and remediate system vulnerabil
 - **[WN10-CC-000325: Automatically Signing in the Last Interactive User After a System-Initiated Restart Must be Disabled](https://github.com/Michelle-Logan/CyberRange/blob/main/STIGS/WN10-CC-000325.ps1)**
 - **[WN10-CC-000005: Camera Access From the Lock Screen Must be Disabled](https://github.com/Michelle-Logan/CyberRange/blob/main/STIGS/WN10-CC-000005.ps1)**
 - **[WN10-CC-000327: PowerShell Transcription Must be Enabled on Windows 10](https://github.com/Michelle-Logan/CyberRange/blob/main/STIGS/WN10-CC-000327.ps1)**
-- **[WN10-CC-000252: Windows 10 must be configured to disable Windows Game Recording and Broadcasting](https://github.com/Michelle-Logan/CyberRange/blob/main/STIGS/WN10-CC-000252.ps1)**
-- **[WN10-CC-000365: Windows 10 must be configured to prevent Windows apps from being activated by voice while the system is locked](https://github.com/Michelle-Logan/CyberRange/blob/main/STIGS/WN10-CC-000365.ps1)**
+- **[WN10-CC-000252: Windows 10 Must be Configured to Disable Windows Game Recording and Broadcasting](https://github.com/Michelle-Logan/CyberRange/blob/main/STIGS/WN10-CC-000252.ps1)**
+- **[WN10-CC-000365: Windows 10 must be Configured to Prevent Windows Apps From Being Activated by Voice While the System is Locked](https://github.com/Michelle-Logan/CyberRange/blob/main/STIGS/WN10-CC-000365.ps1)**
+- **[WN10-CC-000038: WDigest Authentication Must be Disabled](https://github.com/Michelle-Logan/CyberRange/blob/main/STIGS/WN10-CC-000038.ps1)**
 
 
 <hr/>
