@@ -11,6 +11,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Michelle-Logan/threat-hunting-scenario-tor)**
+- **[EmberForge Threat Hunt (Domain Compromise Investigation)](https://github.com/Michelle-Logan/emberforge-threat-hunt)**
 
 ## 🛡️ STIG Remediation Projects
 
